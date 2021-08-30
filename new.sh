@@ -243,7 +243,7 @@ pkg install php
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
 pkg install nano
-figlet -f slant " S U K S E S "|lolcat
+figlet -f slant " S U K S E S Design by programmer Mahmoud hassan "|lolcat
 fi
 
 if [ $pil = 19 ]
@@ -253,11 +253,11 @@ figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
+echo $i""
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 01101559051"
+echo $ :"$i"  "
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Thanks <<"
 exit
 fi
